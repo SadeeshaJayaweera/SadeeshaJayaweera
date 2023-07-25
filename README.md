@@ -22,9 +22,9 @@ Here are a few notable projects I have worked on:
 
 3. 🌐 **Personal Portfolio Website** - Designed and developed a personal portfolio website using HTML, CSS, and JavaScript. Showcased my skills, projects, and provided a means of contact.
 
-4.✈️ **Travel Website - Visit Sri Lanka** - Created a travel website promoting tourism in Sri Lanka. Developed using JavaScript, HTML, CSS, and Bootstrap, the website showcases popular tourist destinations.
+4. ✈️ **Travel Website - Visit Sri Lanka** - Created a travel website promoting tourism in Sri Lanka. Developed using JavaScript, HTML, CSS, and Bootstrap, the website showcases popular tourist destinations.
 
-5.📚 **E-book Website** - Developed an e-book reader web application using HTML, CSS, JavaScript, and Bootstrap. Users can browse and read the e-book in using their proffered browser.
+5. 📚 **E-book Website** - Developed an e-book reader web application using HTML, CSS, JavaScript, and Bootstrap. Users can browse and read the e-book in using their proffered browser.
 
 6. 📝 **Quiz App for GCE A/L Students** - Developed a quiz app using Adobe Flash for GCE A/L students studying General Information Technology (GIT). The app covers various topics related to the GIT syllabus and helps students practice for the exam.
 
