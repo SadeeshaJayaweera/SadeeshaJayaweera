@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sadeesha.jayaweera@gmail.com**
 
-- ⚡ Fun fact **"I think i am the Michael Phelps when in Sri Lanka When i Swim 🏊😄"**
+- ⚡ Fun fact **"I think i am the Michael Phelps in Sri Lanka When i Swim 🏊😄"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
