@@ -7,6 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/@sadeesha_jayawe" target="blank"><img src="https://img.shields.io/twitter/follow/@sadeesha_jayawe?logo=twitter&style=for-the-badge" alt="@sadeesha_jayawe" /></a> </p>
 
+- 🌱 I’m currently learning **JavaScript,React,Node Js and Flutter**
+
+- 📫 How to reach me **sadeesha.jayaweera@gmail.com**
+
+- ⚡ Fun fact **"Swimming is the only sport where you can be in both liquid and solid states at the same time. Just try standing on water – it's the ultimate proof that you're not a penguin!" 🏊😄**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sadeesha_jayaweea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sadeesha_jayaweea" height="30" width="40" /></a>
