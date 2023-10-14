@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sadeesha.jayaweera@gmail.com**
 
-- ⚡ Fun fact **"Swimming is the only sport where you can be in both liquid and solid states at the same time. Just try standing on water – it's the ultimate proof that you're not a penguin!" 🏊😄**
+- ⚡ Fun fact **"I think i am the Michael Phelps when in Sri Lanka When i Swim 🏊😄"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
