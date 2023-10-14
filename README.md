@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sadeesha_jayawe" target="blank"><img src="https://img.shields.io/twitter/follow/@sadeesha_jayawe?logo=twitter&style=for-the-badge" alt="@sadeesha_jayawe" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript,React,Node Js and Flutter**
+- 🌱 I’m currently learning **JavaScript, React, Node Js and Flutter**
 
 - 📫 How to reach me **sadeesha.jayaweera@gmail.com**
 
