@@ -28,4 +28,4 @@
 
 <h3 align="left">Hacktoberfest 2023:</h3>
 
-https://holopin.me/sadeeshajayaweera)](https://holopin.io/@sadeeshajayaweera)
+[![An image of @sadeeshajayaweera's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sadeeshajayaweera)](https://holopin.io/@sadeeshajayaweera)
