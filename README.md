@@ -10,8 +10,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sadeeshajayaweera" alt="GitHub Profile Trophies" />
   </a>
 </p>
-
-<p align="center">
   <a href="https://twitter.com/sadeesha_jayawe" target="_blank">
     <img src="https://img.shields.io/twitter/follow/sadeesha_jayawe?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
