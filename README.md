@@ -67,12 +67,10 @@
 ---
 
 <h3 align="left">Most Used Language:</h3>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadeeshajayaweera&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Top Languages" />
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadeeshajayaweera" alt="GitHub Streak Stats" />
 </p>
 
