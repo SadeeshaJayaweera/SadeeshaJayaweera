@@ -26,7 +26,6 @@
 <!-- [Same icons section remains here as you provided above] -->
 
 <h3 align="left">Most Used Language:</h3>
-<p><strong>💻 JavaScript is my most frequently used and loved language!</strong></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadeeshajayaweera&show_icons=true&locale=en&layout=compact&langs_count=10&hide=php,java" alt="sadeeshajayaweera" /></p>
 
 <h3 align="left">GitHub Stats:</h3>
