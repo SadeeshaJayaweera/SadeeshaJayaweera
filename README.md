@@ -91,18 +91,6 @@
 </p>
 
 ---
-
-## 🎯 Recent Projects
-
-### 🏥 Clinic Hours Finder Pro
-Advanced clinic hours scraper with 3 powerful extraction methods, real-time analytics, and intelligent fallback mechanisms.
-- **Tech Stack:** React, Tailwind CSS, Vite, Recharts
-- **Features:** CSV processing, 3 extraction methods, Analytics dashboard, Dark mode, Advanced filtering
-- **Status:** ✅ Fully working prototype
-- [View Repository](https://github.com/sadeeshajayaweera/clinic-hours-finder)
-
----
-
 ## 🎉 Achievements & Badges
 
 <p align="center">
