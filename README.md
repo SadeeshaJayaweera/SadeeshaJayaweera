@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sadeeshajayaweera">
-    <img src="https://github-profile-trophy.vercel.app/?username=sadeeshajayaweera&theme=gruvbox&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=sadeeshajayaweera&theme=darkhub&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -81,7 +79,11 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadeeshajayaweera&show_icons=true&locale=en&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" width="400"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sadeeshajayaweera&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadeeshajayaweera&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
