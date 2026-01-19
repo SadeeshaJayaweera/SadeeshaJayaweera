@@ -13,8 +13,9 @@
 
 ## 🌱 About Me  
 
-- 🔭 **Currently Learning:** JavaScript, React, Node.js, and Flutter  
-- 💡 **Passionate About:** Building scalable web apps and exploring modern frameworks  
+- 🔭 **Currently Learning:** AI/ML, scalable production-level software, and full-stack development
+- 🎓 **Education:** Final-year BSc Software Engineering undergraduate at NSBM Green University  
+- 💡 **Passionate About:** Building user-friendly, scalable web apps and exploring modern frameworks  
 - 📫 **Email:** sadeesha.jayaweera@gmail.com  
 - ⚡ **Fun Fact:** I swim like the Michael Phelps of Sri Lanka 🏊😄  
 
@@ -78,17 +79,11 @@
 
 ## 📊 GitHub Analytics  
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sadeeshajayaweera&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadeeshajayaweera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=ffffff&icon_color=ff9526&text_color=c9d1d9" width="45%" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeeshajayaweera&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=ffffff&icon_color=ff9526&text_color=c9d1d9" width="45%" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadeeshajayaweera&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadeeshajayaweera&theme=tokyonight" alt="GitHub Streak Stats" width="500"/>
-</p>
 
 ---
 ## 🎉 Achievements & Badges
@@ -105,7 +100,7 @@
 
 If you find my projects helpful, consider supporting me:
 
-<p align="center">
+<p align="left">
   <a href="https://www.buymeacoffee.com/sadeeshajak" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" width="210"/>
   </a>
@@ -121,7 +116,7 @@ If you find my projects helpful, consider supporting me:
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9526,100:fffc00&height=100&section=footer" width="100%"/>
 </p>
 
