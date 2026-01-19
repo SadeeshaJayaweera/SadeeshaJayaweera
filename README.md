@@ -124,6 +124,4 @@ If you find my projects helpful, consider supporting me:
   ⭐ If you like my work, please consider starring my repositories! 
 </p>
 
-<p align="center">
-  <strong>Last Updated:</strong> December 2024 | <strong>Location:</strong> 🇱🇰 Sri Lanka
-</p>
+
