@@ -146,31 +146,9 @@ const sadeesha = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sadeeshajayaweera&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9526&icon_color=FF9526&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sadeeshajayaweera&theme=radical&hide_border=true&background=0D1117&stroke=FF9526&ring=FF9526&fire=FF9526&currStreakLabel=FF9526" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeeshajayaweera&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9526&text_color=FFFFFF&langs_count=8" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sadeeshajayaweera&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9526&text_color=FFFFFF&layout=compact" />
-</div>
-
-<br/>
-
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadeeshajayaweera&bg_color=0d1117&color=ff9526&line=ff9526&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/api?username=sadeeshajayaweera&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
 </div>
 
 ---
@@ -225,24 +203,6 @@ const sadeesha = {
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF9526?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sadeeshajayaweera.github.io)
 
 </div>
-
----
-
-## 💼 Work Experience & Education
-
-```mermaid
-gantt
-    title My Journey
-    dateFormat YYYY-MM
-    section Education
-    BSc Software Engineering (NSBM)    :2021-09, 2025-06
-    section Learning
-    AI/ML Specialization               :2024-01, 2024-12
-    Cloud Computing (AWS)              :2024-06, 2024-12
-    section Projects
-    Full-Stack Web Applications        :2023-01, 2024-12
-    Mobile App Development             :2023-06, 2024-12
-```
 
 ---
 ## 🎉 Achievements & Certifications
