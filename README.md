@@ -1,140 +1,389 @@
-<h1 align="center">Hi 👋, I'm Sadeesha Jayaweera</h1>
-<h3 align="center">🚀 Full-stack Developer | 🌍 Sri Lanka</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sadeesha%20Jayaweera&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sadeeshajayaweera&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadeeshajayaweera&theme=darkhub&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 🌱 About Me  
-
-- 🔭 **Currently Learning:** AI/ML, scalable production-level software, and full-stack development
-- 🎓 **Education:** Final-year BSc Software Engineering undergraduate at NSBM Green University  
-- 💡 **Passionate About:** Building user-friendly, scalable web apps and exploring modern frameworks  
-- 📫 **Email:** sadeesha.jayaweera@gmail.com  
-- ⚡ **Fun Fact:** I swim like the Michael Phelps of Sri Lanka 🏊😄  
-
----
-
-## 🤝 Connect with Me  
-
-<p align="left">
-  <a href="https://dev.to/sadeesha_jayaweea" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40"/>
-  </a>
-  <a href="https://twitter.com/sadeesha_jayawe" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sadeesha-jayaweera" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://medium.com/@sadeesha.jayaweera" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40"/>
-  </a>
-  <a href="https://discord.gg/441861073553981442" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/>
-  </a>
-</p>
-
----
-
-## 🛠️ Languages & Tools  
-
-### Languages:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-</p>
-
-### Frameworks & Tools:
-<p align="left">
+<div align="center">
   
-  <!-- Existing tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF9526&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Software+Engineering+Student+%F0%9F%8E%93;Building+Scalable+Solutions+%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
 
-  <br>
+  <br/>
   
-  ### API Testing Tools:
-  <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache JMeter" width="40" height="40"/>
+  <!-- Profile Views & Social Badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sadeeshajayaweera&label=Profile%20Views&color=FF9526&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/sadeeshajayaweera?label=Followers&style=for-the-badge&color=FF9526" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/sadeeshajayaweera?label=Stars&style=for-the-badge&color=FF9526" alt="Stars"/>
+  </p>
+  
+</div>
 
+<br/>
 
+---
 
+## 🎯 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+```typescript
+const sadeesha = {
+    location: "Sri Lanka 🇱🇰",
+    education: "BSc Software Engineering @ NSBM Green University",
+    currentFocus: ["AI/ML", "Scalable Systems", "Full-Stack Development"],
+    code: ["JavaScript", "TypeScript", "Java", "C#", "Dart", "Python"],
+    askMeAbout: ["Web Dev", "Mobile Apps", "System Design", "Swimming 🏊"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue.js", "Next.js"],
+            css: ["Tailwind", "Bootstrap", "Sass", "Material-UI"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            java: ["Spring Boot"],
+            csharp: [".NET Core"]
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
+        mobile: ["React Native", "Flutter"],
+        devOps: ["Docker", "AWS", "Git", "CI/CD"],
+        tools: ["Postman", "Swagger", "Insomnia", "JMeter"]
+    },
+    architecture: ["Microservices", "RESTful APIs", "MVC", "Serverless"],
+    currentChallenge: "Building production-grade scalable applications",
+    funFact: "I code better when swimming thoughts 🏊‍♂️💭"
+};
+```
+
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Analytics  
+## 🚀 Tech Stack & Tools
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadeeshajayaweera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=ffffff&icon_color=ff9526&text_color=c9d1d9" width="45%" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeeshajayaweera&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=ffffff&icon_color=ff9526&text_color=c9d1d9" width="45%" />
-</p>
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br/>
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>📱 Mobile Development</b></summary>
+<br/>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🛠️ DevOps & Tools</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</details>
 
 ---
-## 🎉 Achievements & Badges
 
-<p align="center">
-  <a href="https://holopin.io/@sadeeshajayaweera" target="_blank">
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sadeeshajayaweera&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9526&icon_color=FF9526&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sadeeshajayaweera&theme=radical&hide_border=true&background=0D1117&stroke=FF9526&ring=FF9526&fire=FF9526&currStreakLabel=FF9526" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeeshajayaweera&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9526&text_color=FFFFFF&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sadeeshajayaweera&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9526&text_color=FFFFFF&layout=compact" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadeeshajayaweera&bg_color=0d1117&color=ff9526&line=ff9526&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/api?username=sadeeshajayaweera&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
+</div>
+
+---
+
+## 🎯 Current Focus & Projects
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80px"/>
+      <br/><b>AI/ML</b>
+      <br/>Exploring machine learning algorithms and neural networks
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/server.png" width="80px"/>
+      <br/><b>Scalable Systems</b>
+      <br/>Building production-grade microservices architecture
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="80px"/>
+      <br/><b>Full-Stack Dev</b>
+      <br/>Creating end-to-end web and mobile applications
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 [Building Scalable Microservices with Node.js](https://medium.com/@sadeesha.jayaweera)
+- 💡 [React Performance Optimization Tips](https://dev.to/sadeesha_jayaweea)
+- 🔥 [Understanding Docker for Developers](https://medium.com/@sadeesha.jayaweera)
+- ⚡ [TypeScript Best Practices in 2024](https://dev.to/sadeesha_jayaweea)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More blog posts...](https://medium.com/@sadeesha.jayaweera)
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadeesha-jayaweera)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sadeesha_jayawe)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sadeesha.jayaweera)
+  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sadeesha_jayaweea)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/441861073553981442)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadeesha.jayaweera@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF9526?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sadeeshajayaweera.github.io)
+
+</div>
+
+---
+
+## 💼 Work Experience & Education
+
+```mermaid
+gantt
+    title My Journey
+    dateFormat YYYY-MM
+    section Education
+    BSc Software Engineering (NSBM)    :2021-09, 2025-06
+    section Learning
+    AI/ML Specialization               :2024-01, 2024-12
+    Cloud Computing (AWS)              :2024-06, 2024-12
+    section Projects
+    Full-Stack Web Applications        :2023-01, 2024-12
+    Mobile App Development             :2023-06, 2024-12
+```
+
+---
+## 🎉 Achievements & Certifications
+
+<div align="center">
+  <a href="https://holopin.io/@sadeeshajayaweera">
     <img src="https://holopin.me/sadeeshajayaweera" alt="Holopin Badges"/>
   </a>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+  
+  ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participant-FF9526?style=for-the-badge&logo=hacktoberfest&logoColor=white)
+  ![Open Source](https://img.shields.io/badge/Open_Source-Contributor-FF9526?style=for-the-badge&logo=github&logoColor=white)
+  
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+| Technology | Progress | Description |
+|:---:|:---:|:---|
+| 🤖 **Machine Learning** | ![80%](https://progress-bar.dev/80?color=FF9526) | Deep diving into neural networks and AI algorithms |
+| ☁️ **AWS Cloud** | ![70%](https://progress-bar.dev/70?color=FF9526) | Mastering cloud architecture and deployment |
+| 🐳 **Docker & K8s** | ![65%](https://progress-bar.dev/65?color=FF9526) | Containerization and orchestration |
+| 📱 **React Native** | ![85%](https://progress-bar.dev/85?color=FF9526) | Cross-platform mobile development |
+| 🔐 **Cybersecurity** | ![60%](https://progress-bar.dev/60?color=FF9526) | Application security best practices |
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
 
 ---
 
 ## ☕ Support My Work
 
-If you find my projects helpful, consider supporting me:
-
-<p align="left">
-  <a href="https://www.buymeacoffee.com/sadeeshajak" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" width="210"/>
-  </a>
-</p>
-
----
-
-## 📈 Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadeeshajayaweera&theme=tokyonight" alt="Contribution Graph" width="700"/>
-</p>
+<div align="center">
+  
+  If you find my projects helpful or just want to support my work, consider buying me a coffee! ☕
+  
+  <br/>
+  
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sadeeshajak)
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sadeeshajayaweera)
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sadeeshajayaweera)
+  
+</div>
 
 ---
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9526,100:fffc00&height=100&section=footer" width="100%"/>
-</p>
+## 📊 Weekly Development Breakdown
 
-<p align="center">
-  ⭐ If you like my work, please consider starring my repositories! 
-</p>
+<!--START_SECTION:waka-->
+```text
+TypeScript   12 hrs 30 mins  ████████████░░░░░░░░░  45.2%
+JavaScript   8 hrs 15 mins   ███████▓░░░░░░░░░░░░░  29.8%
+React        4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░  15.7%
+CSS          1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░   6.3%
+Other        50 mins         ▓░░░░░░░░░░░░░░░░░░░░   3.0%
+```
+<!--END_SECTION:waka-->
 
+---
 
+## 🎵 Spotify Playing
+
+<div align="center">
+  
+  [![Spotify](https://novatorem-sadeeshajayaweera.vercel.app/api/spotify)](https://open.spotify.com/user/31c2u4osqgquauhg7smxpmws2u4q)
+  
+</div>
+
+---
+
+## 🏊 Fun Facts
+
+<div align="center">
+
+```javascript
+const funFacts = {
+    🏊: "I swim like the Michael Phelps of Sri Lanka",
+    🌊: "Water is my second home",
+    💻: "Coding and swimming - my two passions",
+    ☕: "Coffee-powered developer",
+    🌙: "Night owl developer",
+    🎮: "Occasional gamer",
+    📚: "Always learning something new",
+    🚀: "Dream: Build the next big thing"
+};
+```
+
+</div>
+
+---
+
+## 📫 Get In Touch
+
+<div align="center">
+  
+  💼 Open for collaboration and exciting projects!
+  
+  📧 **Email:** sadeesha.jayaweera@gmail.com
+  
+  🌐 **Portfolio:** [Coming Soon]
+  
+  📱 **Let's connect and build something amazing together!**
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### Show some ❤️ by starring some of my repositories!
+  
+  ![Profile Last Updated](https://img.shields.io/github/last-commit/sadeeshajayaweera/sadeeshajayaweera?label=Last%20Updated&style=for-the-badge&color=FF9526)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+</div>
+
+<div align="center">
+  
+  **⭐ From [Sadeesha Jayaweera](https://github.com/sadeeshajayaweera) with 💙**
+
+  
+</div>
