@@ -359,7 +359,7 @@ const funFacts = {
   
   📧 **Email:** sadeesha.jayaweera@gmail.com
   
-  🌐 **Portfolio:** [Coming Soon]
+  🌐 **Portfolio:** <a href= "https://www.linkedin.com/in/sadeesha-jayaweera">Linkedin </a>
   
   📱 **Let's connect and build something amazing together!**
   
