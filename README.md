@@ -145,6 +145,15 @@ const sadeesha = {
 
 ---
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/sadeeshajayaweera">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sadeeshajayaweera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sadeeshajayaweera&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
+
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadeeshajayaweera&bg_color=0d1117&color=ff9526&line=ff9526&point=ffffff&area=true&hide_border=true" width="100%"/>
