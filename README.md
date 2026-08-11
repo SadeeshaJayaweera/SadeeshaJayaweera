@@ -10,7 +10,6 @@
  </a>
 
   <br/>
-  
   <!-- Profile Views & Social Badges -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=sadeeshajayaweera&label=Profile%20Views&color=FF9526&style=for-the-badge" alt="Profile Views"/>
