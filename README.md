@@ -177,19 +177,6 @@ const sadeesha = {
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable Microservices with Node.js](https://medium.com/@sadeesha.jayaweera)
-- 💡 [React Performance Optimization Tips](https://dev.to/sadeesha_jayaweea)
-- 🔥 [Understanding Docker for Developers](https://medium.com/@sadeesha.jayaweera)
-- ⚡ [TypeScript Best Practices in 2024](https://dev.to/sadeesha_jayaweea)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](https://medium.com/@sadeesha.jayaweera)
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -264,29 +251,16 @@ const sadeesha = {
   
 </div>
 
----
 
-## 📊 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-```text
-TypeScript   12 hrs 30 mins  ████████████░░░░░░░░░  45.2%
-JavaScript   8 hrs 15 mins   ███████▓░░░░░░░░░░░░░  29.8%
-React        4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░  15.7%
-CSS          1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░   6.3%
-Other        50 mins         ▓░░░░░░░░░░░░░░░░░░░░   3.0%
-```
-<!--END_SECTION:waka-->
 
----
+<p align="center">
+  <a href="https://open.spotify.com/user/31c2u4osqgquauhg7smxpmws2u4q">
+    <img src="https://img.shields.io/badge/Follow%20me%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
 
-## 🎵 Spotify Playing
 
-<div align="center">
-  
-  [![Spotify](https://novatorem-sadeeshajayaweera.vercel.app/api/spotify)](https://open.spotify.com/user/31c2u4osqgquauhg7smxpmws2u4q)
-  
-</div>
 
 ---
 
