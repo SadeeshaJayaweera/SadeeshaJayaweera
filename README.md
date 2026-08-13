@@ -223,13 +223,13 @@ const sadeesha = {
 
 <div align="center">
 
-| Technology | Progress | Description |
-|:---:|:---:|:---|
-| 🤖 **Machine Learning** | ![80%](https://progress-bar.dev/80?color=FF9526) | Deep diving into neural networks and AI algorithms |
-| ☁️ **AWS Cloud** | ![70%](https://progress-bar.dev/70?color=FF9526) | Mastering cloud architecture and deployment |
-| 🐳 **Docker & K8s** | ![65%](https://progress-bar.dev/65?color=FF9526) | Containerization and orchestration |
-| 📱 **React Native** | ![85%](https://progress-bar.dev/85?color=FF9526) | Cross-platform mobile development |
-| 🔐 **Cybersecurity** | ![60%](https://progress-bar.dev/60?color=FF9526) | Application security best practices |
+| Technology | Description |
+|:---:|:---|
+| 🤖 **Machine Learning** | Deep diving into neural networks and AI algorithms |
+| ☁️ **AWS Cloud**        | Mastering cloud architecture and deployment |
+| 🐳 **Docker & K8s**     | Containerization and orchestration |
+| 📱 **React Native**     | Cross-platform mobile development |
+| 🔐 **Cybersecurity**    | Application security best practices |
 
 </div>
 
