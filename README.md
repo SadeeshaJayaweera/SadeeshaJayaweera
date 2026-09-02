@@ -154,11 +154,11 @@ const sadeesha = {
   </a>
 </p>
 
-<!-- Activity Graph -->
+<!-- Activity Graph 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadeeshajayaweera&bg_color=0d1117&color=ff9526&line=ff9526&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
-
+-->
 ---
 
 ## 🎯 Current Focus & Projects
