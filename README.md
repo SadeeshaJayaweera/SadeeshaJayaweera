@@ -16,6 +16,15 @@
     <img src="https://img.shields.io/github/followers/sadeeshajayaweera?label=Followers&style=for-the-badge&color=FF9526" alt="Followers"/>
     <img src="https://img.shields.io/github/stars/sadeeshajayaweera?label=Stars&style=for-the-badge&color=FF9526" alt="Stars"/>
   </p>
+
+  <p>
+    <a href="https://user-badge.committers.top/sri_lanka/SadeeshaJayaweera">
+      <img src="https://user-badge.committers.top/sri_lanka/SadeeshaJayaweera.svg" alt="Sri Lanka GitHub Commits Ranking"/>
+    </a>
+    <a href="https://user-badge.committers.top/sri_lanka_public/SadeeshaJayaweera">
+      <img src="https://user-badge.committers.top/sri_lanka_public/SadeeshaJayaweera.svg" alt="Sri Lanka GitHub Contributions Ranking"/>
+    </a>
+  </p>
   
 </div>
 
