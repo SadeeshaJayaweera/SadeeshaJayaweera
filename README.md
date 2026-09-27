@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=FF9526&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Product+Support+Engineer+%7C+SaaS+%26+API+Troubleshooting;Software+Developer+%7C+Integrations+%26+Automation" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=FF9526&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Product+Support+Engineer+%7C+SaaS+%26+API+Troubleshooting;Freelance+Software+Engineer+%7C+Building+Practical+Solutions" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -32,48 +32,127 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Product Support Engineer @ PetDesk** with a background in **SaaS platforms, API troubleshooting, system integrations and software development**.
+I'm a **Product Support Engineer @ PetDesk** working at the intersection of **customers, SaaS products, APIs, integrations and engineering**.
 
-My work sits at the intersection of **customers, products and engineering** — understanding how systems behave, investigating technical problems, working with APIs and integrations, and building software to solve practical problems.
+I spend my professional life understanding how software behaves in the real world — troubleshooting technical issues, investigating API and integration problems, and helping turn complex product behaviour into practical solutions.
 
-Alongside my professional work, I'm completing a **BSc (Hons) in Software Engineering at NSBM Green University**.
+Outside of my professional role, I'm a **Freelance Software Engineer and independent builder**.
 
-I enjoy working on problems involving:
+I have a simple habit:
 
-* 🔌 APIs & system integrations
-* 🧩 SaaS applications
-* 🛠️ Technical troubleshooting
-* ⚙️ Automation & internal tools
-* 🌐 Full-stack development
-* ☁️ Cloud & distributed systems
-* 🤖 Practical AI integrations
+> **When I notice an inefficiency, I start thinking about whether software can eliminate it.**
 
-> **Support the product. Understand the system. Build the solution.**
+That often turns into a small application, automation, internal tool, API integration or full-stack project.
 
----
-## 🎯 Current Focus & Projects
+I'm particularly interested in building software that solves **specific, observable problems** rather than building technology for its own sake.
+
+Currently completing my **BSc (Hons) in Software Engineering at NSBM Green University**.
+
+### What I Like Building
+
+* 🔌 API integrations, webhooks and automation
+* 🛠️ Tools that remove repetitive manual work
+* 🌐 Full-stack web applications
+* 🧩 SaaS utilities and productivity tools
+* 📊 Data-driven dashboards and internal tools
+* 🤖 Practical AI-powered applications
+* ☁️ Cloud-connected applications and services
+* ⚙️ Small systems that turn inefficient processes into simpler ones
+
+**Notice a problem → Understand it → Build the solution.**
+
+## 🧠 How I Approach Problems
+
+<div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80px"/>
-      <br/><b>AI/ML</b>
-      <br/>Exploring machine learning algorithms and neural networks
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/server.png" width="80px"/>
-      <br/><b>Scalable Systems</b>
-      <br/>Building production-grade microservices architecture
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="80px"/>
-      <br/><b>Full-Stack Dev</b>
-      <br/>Creating end-to-end web and mobile applications
-    </td>
-  </tr>
+<tr>
+
+<td align="center" width="25%">
+
+### 🔎 Notice
+
+Find something that is<br/>
+slow, repetitive or inefficient.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧩 Understand
+
+Break down the workflow,<br/>
+constraints and root cause.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛠️ Build
+
+Create a practical solution<br/>
+using the right technology.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀 Improve
+
+Measure the result,<br/>
+iterate and simplify.
+
+</td>
+
+</tr>
 </table>
 
----
+</div>
+
+## 🚀 Things I'm Building & Exploring
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="70px"/>
+
+<br/>
+
+<b>Practical Software</b>
+
+Applications and tools built around real-world problems, workflows and inefficiencies.
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/000000/api-settings.png" width="70px"/>
+
+<br/>
+
+<b>APIs & Automation</b>
+
+Integrations, webhooks, automation and systems that connect otherwise disconnected workflows.
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="70px"/>
+
+<br/>
+
+<b>Applied AI</b>
+
+Experimenting with AI where it can make software more useful, intelligent or efficient.
+
+</td>
+
+</tr>
+</table>
+
 ## 🧰 Technical Stack
 
 ### Languages
@@ -133,8 +212,6 @@ I enjoy working on problems involving:
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-</table>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -167,33 +244,19 @@ I enjoy working on problems involving:
 
 ---
 
-## 📚 Areas I'm Exploring
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-| 🔌 APIs & Integrations |   ☁️ Cloud & DevOps  |      🤖 Applied AI      |
-| :--------------------: | :------------------: | :---------------------: |
-|  REST APIs · Webhooks  | AWS · Docker · CI/CD | AI-powered applications |
-|   Distributed Systems  |     Microservices    |     AI integrations     |
+<a href="https://holopin.io/@sadeeshajayaweera">
+<img src="https://holopin.me/sadeeshajayaweera" alt="Holopin Badges"/>
+</a>
 
-</div>
+<br/><br/>
 
----
-## 🎉 Achievements & Certifications
+<img src="https://img.shields.io/badge/Hacktoberfest-Participant-FF9526?style=for-the-badge&logo=hacktoberfest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_Source-Contributor-FF9526?style=for-the-badge&logo=github&logoColor=white"/>
 
-<div align="center">
-  <a href="https://holopin.io/@sadeeshajayaweera">
-    <img src="https://holopin.me/sadeeshajayaweera" alt="Holopin Badges"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  
-  ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participant-FF9526?style=for-the-badge&logo=hacktoberfest&logoColor=white)
-  ![Open Source](https://img.shields.io/badge/Open_Source-Contributor-FF9526?style=for-the-badge&logo=github&logoColor=white)
-  
 </div>
 
 ---
@@ -224,7 +287,9 @@ I enjoy working on problems involving:
 
 <div align="center">
 
-**Product Support · APIs · Integrations · Software Engineering**
+### **Find the inefficiency. Build the solution.**
+
+**Product Support · Freelance Software Engineering · APIs · Cloud · DevOps · Applied AI**
 
 </div>
 
