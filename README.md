@@ -21,15 +21,14 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+
+</div><br>
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=sadeeshajayaweera&label=Profile%20Views&color=FF9526&style=flat-square" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/sadeeshajayaweera?label=Followers&style=flat-square&color=FF9526" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/sadeeshajayaweera?label=Stars&style=flat-square&color=FF9526" alt="Stars"/>
-
 </div>
-
----
 
 ## 👨‍💻 About Me
 
