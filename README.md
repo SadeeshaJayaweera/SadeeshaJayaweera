@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sadeesha%20Jayaweera&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
-<br/>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img
@@ -111,50 +110,7 @@ iterate and simplify.
 
 </div>
 
-## 🚀 Things I'm Building & Exploring
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="70px"/>
-
-<br/>
-
-<b>Practical Software</b>
-
-Applications and tools built around real-world problems, workflows and inefficiencies.
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://img.icons8.com/fluency/96/000000/api-settings.png" width="70px"/>
-
-<br/>
-
-<b>APIs & Automation</b>
-
-Integrations, webhooks, automation and systems that connect otherwise disconnected workflows.
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="70px"/>
-
-<br/>
-
-<b>Applied AI</b>
-
-Experimenting with AI where it can make software more useful, intelligent or efficient.
-
-</td>
-
-</tr>
-</table>
-
+---
 ## 🧰 Technical Stack
 
 ### Languages
@@ -215,7 +171,52 @@ Experimenting with AI where it can make software more useful, intelligent or eff
 </p>
 
 ---
+## 🚀 Things I'm Building & Exploring
 
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="70px"/>
+
+<br/>
+
+<b>Practical Software</b>
+
+Applications and tools built around real-world problems, workflows and inefficiencies.
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/000000/api-settings.png" width="70px"/>
+
+<br/>
+
+<b>APIs & Automation</b>
+
+Integrations, webhooks, automation and systems that connect otherwise disconnected workflows.
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="70px"/>
+
+<br/>
+
+<b>Applied AI</b>
+
+Experimenting with AI where it can make software more useful, intelligent or efficient.
+
+</td>
+
+</tr>
+</table>
+<br>
+
+---
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -243,9 +244,9 @@ Experimenting with AI where it can make software more useful, intelligent or eff
 </a>
 
 </div>
+<br>
 
 ---
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
