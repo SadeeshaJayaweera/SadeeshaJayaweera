@@ -5,9 +5,11 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=FF9526&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Product+Support+Engineer+%7C+SaaS+%26+API+Troubleshooting;Freelance+Software+Engineer+%7C+Building+Practical+Solutions" alt="Typing SVG"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=FF9526&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=120&lines=Product+Support+Engineer+%7C+SaaS+%26+Technical+Problem+Solving;Customer+Success+Engineering+%7C+DevOps+%26+Cloud;Software+Engineering+%7C+Building+Solutions+for+Real-World+Problems"
+    alt="Product Support Engineer, Customer Success Engineering, DevOps, Cloud and Software Engineering"
+  />
 </a>
-
 <br/>
 
 <a href="https://www.linkedin.com/in/sadeesha-jayaweera">
